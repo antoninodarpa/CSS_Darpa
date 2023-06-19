@@ -1,4 +1,5 @@
-Starting from the navbar you created in the HTML exercise called 'Navbar', add the CSS properties. The Search button should have a hover effect (background green and white text).
+Rewrite the rules using the CSS custom properties.
 
 **Suggestion**:
-Use the classes to apply the CSS rules instead of ids, tags, or inline style.
+
+Use the `:root `selector, defining there all the properties and use them in the `body`and `.ball `selectors
