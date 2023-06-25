@@ -1,4 +1,4 @@
-Try to replicate the layout in asset/layout4.png, using CSS Grid properties. The green and orange blocks are half as high as the yellow and red blocks.
+Look at the layout in the example.png and try to replicate it using CSS Grid properties.
 
-**Suggestion:**
-Look at the video about the CSS Grid property.
+**Suggestion**:
+The grid that contains all numbers should have 4 columns. Assign this rule `grid-template-columns: repeat(4, 1fr)` to the div where you put the numbers.
