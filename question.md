@@ -1,7 +1,1 @@
-Try to replicate the layout displayed in asset/cards-desktop.jpg, cards-mobile.jpg (max-width: 375px), cards-tablet.jpg (max-width: 768px). The created page should be responsive, both for the tablet view (`&#40;max-width: 768px&#41`) and mobile view (`&#40;max-width: 375px&#41`)
-
-**Suggestion:**
-
-[//]: # 'Use the Media Query rules to solve the exercise successfully.'
-
-Use the Media Query rules to solve the exercise successfully.
+Make responsive the exercise 'Nav': below 768 pixels the navbar is replaced by an hamburger menu without functionalities, it just appears. Try to create the hamburger menu both with CSS rules and using an icon.
